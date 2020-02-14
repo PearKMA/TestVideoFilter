@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestVideoFilter</string>
+    <string name="text_vintage">Vintage</string>
+    <string name="text_portrait">Portrait</string>
+    <string name="text_dust">Dust</string>
+    <string name="text_vignette">Vignette</string>
+    <string name="text_mask">Mask</string>
+    <string name="text_light_leak">Light Leak</string>
+    <string name="text_border">border</string>
+    <string name="text_brightness">Brightness</string>
+    <string name="text_contrast">Contrast</string>
+    <string name="text_saturation">Saturation</string>
+    <string name="text_hight_light">High Light</string>
+    <string name="text_shadow">Shadow</string>
+    <string name="text_date">Date</string>
+    <string name="default_position">00:00</string>
+    <string name="text_normal">Normal</string>
+</resources>
